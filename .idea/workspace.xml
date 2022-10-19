@@ -3,8 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="15d6d045-eb40-414e-a0c3-fbf0849bf1ef" name="Changes" comment="first commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/schaltjahr/Schaltjahr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Schaltjahr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/schaltjahr/SchaltjahrTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/tests/SchaltjahrTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ueben_POS_1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Ueben_POS_1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Schaltjahr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Datum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/SchaltjahrTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/tests/DatumTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,21 +33,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="DatumTest$TestDatumGueltig" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Ueben_POS_1" />
+      <option name="PACKAGE_NAME" value="DatumTest" />
+      <option name="MAIN_CLASS_NAME" value="DatumTest$TestDatumGueltig" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DatumTest$TestDatumGueltig" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -57,6 +74,8 @@
       <option name="presentableId" value="Default" />
       <updated>1666184298269</updated>
       <workItem from="1666184300066" duration="2006000" />
+      <workItem from="1666198706799" duration="94000" />
+      <workItem from="1666198820993" duration="985000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1666184729903</created>
