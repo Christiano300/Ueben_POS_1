@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="15d6d045-eb40-414e-a0c3-fbf0849bf1ef" name="Changes" comment="ArrayUtil">
+    <list default="true" id="15d6d045-eb40-414e-a0c3-fbf0849bf1ef" name="Changes" comment="Kommentare">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Datum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Datum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/ArrayUtilTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/tests/ArrayUtilTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +73,7 @@
       <updated>1666184298269</updated>
       <workItem from="1666184300066" duration="2006000" />
       <workItem from="1666198706799" duration="94000" />
-      <workItem from="1666198820993" duration="5161000" />
+      <workItem from="1666198820993" duration="6130000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1666184729903</created>
@@ -97,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666202550517</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Kommentare">
+      <created>1666204109693</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666204109693</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,6 +124,7 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="new" />
     <MESSAGE value="ArrayUtil" />
-    <option name="LAST_COMMIT_MESSAGE" value="ArrayUtil" />
+    <MESSAGE value="Kommentare" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kommentare" />
   </component>
 </project>
